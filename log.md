@@ -2,7 +2,7 @@
 
 ### Day 1: January 04, Wednesday
 
-**Today's Progress**: I've setup the boilerplate for the project.
+**Today's Progress**: I've setup the boilerplate for the project. Imported Axios HTTP client. Built up the Ajax query. Created a search component and search results component.
 
 **Thoughts** Vue Js templates was pretty easy to get started. 
 
