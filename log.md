@@ -9,3 +9,8 @@
 **Link(s) to work**
 1. [Source Code](https://github.com/manidf/nytimes-vuejs)
 
+### Day 2: January 05, Thursday
+
+**Today's Progress**: added v-for directive to render out the data i am getting from NYT API
+**Thoughts** nothing going yet, tomorrow is another day ;-):
+
