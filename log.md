@@ -15,7 +15,7 @@
 
 **Thoughts**: nothing going yet, tomorrow is another day ;-)
 
-### Day 2: January 06, Friday
+### Day 3: January 06, Friday
 
 **Today's Progress**: I fixed the Axios Ajax request. Opted not to have an inline arrow function, its more readable with braces as well, added catch to catch any errors. I can see the data rendering on the page now. Next up is to wire up the input field so that we can actually search the API and render a nice template under the search bar.
 
