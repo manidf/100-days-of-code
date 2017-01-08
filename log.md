@@ -20,3 +20,16 @@
 **Today's Progress**: I fixed the Axios Ajax request. Opted not to have an inline arrow function, its more readable with braces as well, added catch to catch any errors. I can see the data rendering on the page now. Next up is to wire up the input field so that we can actually search the API and render a nice template under the search bar.
 
 **Thoughts**: Vue is really fun to work with. easy peasy sorta kinda. Will get into component communication tomorrow to post the value of the search input to NYT API end point.
+
+### Day 4: January 07, Saturday
+
+**Today's Progress**: Made a custom component in place in the SearchResults component
+
+**Thoughts**: Figured out the dot syntax for accessing properties in the arrays coming back from NYT API. Need to get the images to show up, need to convert the time stamps maybe look at momemnt js.
+
+
+### Day 5: January 08, Sunday
+
+**Today's Progress**: Removed miligram css, introduced Bulma css framework and built up a card layout for the search results.
+
+**Thoughts**: Bulma is great lots nice new things to play with very easy and quick to get layouts built up in each component. Need fix the css-loader currently am including the bulma lib via cdn would like to import it rather from node pacakes.
