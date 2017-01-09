@@ -32,4 +32,12 @@
 
 **Today's Progress**: Removed miligram css, introduced Bulma css framework and built up a card layout for the search results.
 
-**Thoughts**: Bulma is great lots nice new things to play with very easy and quick to get layouts built up in each component. Need fix the css-loader currently am including the bulma lib via cdn would like to import it rather from node pacakes.
+**Thoughts**: Bulma is great lots nice new things to play with very easy and quick to get layouts built up in each component. Need fix the css-loader currently am including the bulma lib via cdn would like to import it rather from node packages.
+
+
+### Day 6: January 09, Monday
+
+**Today's Progress**: Started wiring up the search field to send data to the searh results component. Made build for demo.
+
+**Thoughts**: Should complete this tomorrow, the data binding in vue with props seems very simple and easy to understand.
+1. [DEMO](http://themwebs.me/labs/nytimes-vuejs/)
