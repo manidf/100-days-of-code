@@ -41,3 +41,10 @@
 
 **Thoughts**: Should complete this tomorrow, the data binding in vue with props seems very simple and easy to understand.
 1. [DEMO](http://themwebs.me/labs/nytimes-vuejs/)
+
+### Day 7: March 07, Tuesday
+
+**Today's Progress**: Udacity CS101 Course
+
+**Thoughts**: Started learning Python in the Computer Science 101 Intro course on Udacity. This great fun.
+1. [SOURCE CODE](https://github.com/manidf/CS101-intro-to-cs)
